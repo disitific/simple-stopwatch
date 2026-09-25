@@ -2,7 +2,7 @@
 A simple miniature stopwatch made with Python and PyQt6 engine.
 
 # Installation
-Go to (releases)[https://github.com/jjoltt/simple-stopwatch/releases] to download the latest prebuilt release.
+Go to [releases](https://github.com/jjoltt/simple-stopwatch/releases) to download the latest prebuilt release.
 ## Want to build it yourself?
 Clone this repository and run `makepkg -si` to build it.
 
