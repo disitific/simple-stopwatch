@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Simple Stopwatch
+Comment=A simple timer desktop app
+Exec=simple-stopwatch
+Icon=utilities-terminal
+Terminal=false
+Type=Application
+Categories=Utility;
